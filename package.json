@@ -1,0 +1,19 @@
+{
+  "name": "matrix-wakeup",
+  "version": "1.0.0",
+  "description": "Matrix-style animation library with falling symbols and text assembly effect",
+  "main": "matrix-wakeup.js",
+  "author": "Andrey Kalinin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ak-site/matrix-wakeup"
+  },
+  "keywords": [
+    "matrix",
+    "animation",
+    "canvas",
+    "matrix-rain",
+    "wake-up-neo"
+  ]
+}
